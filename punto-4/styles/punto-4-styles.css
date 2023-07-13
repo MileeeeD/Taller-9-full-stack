@@ -1,0 +1,16 @@
+#section-titles{
+    justify-content: center;
+    margin: 50px 100px ;
+}
+.section-titles__text-1{
+    font-family: 'Jost';
+    font-size: 30px;
+    color: #264ef8;;
+    text-align: center;
+}
+.section-titles__text-2{
+    font-family: 'Jost';
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
