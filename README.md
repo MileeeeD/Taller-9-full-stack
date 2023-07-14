@@ -23,3 +23,6 @@ Con base en el wireframe diseñado y los recursos obtenidos, desarrolle una inte
 <h2>Punto 5:</h2> 
 <p>Escribir el documento HTML y las reglas CSS necesarias para visualizar el siguiente texto en el navegador.</p>
 <img src="./public/images/Text-5.png"alt="Estilos de Texto">
+<h2>Punto 6: Enlaces</h2>
+<p>Escribir el documento HTML y las reglas CSS necesarias para visualizar el siguiente texto en el navegador.</p>
+<img src="./public/images/enlace.png" alt="Enlaces">
