@@ -1,0 +1,42 @@
+#tables{
+    width: 60%;
+    height: 80px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    background-color: yellow;
+    margin: 60px 200px;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+ }
+ .Title-1, .Title-2 {
+    text-align: center;
+    color: red;
+}
+
+.Title-1 i, .Title-2 i {
+    font-size: 22px; /* Ajusta el tamaño según tus preferencias */
+}
+#tables {
+    width: 50%;
+    border: 1px dashed #000; /* Cambia solid a dashed para bordes punteados */
+    border-collapse: collapse;
+    background-color: yellow;
+}
+
+th, td {
+    /* Otros estilos... */
+    border: 1px dashed #000; /* Aplica un borde punteado en todas las direcciones */
+}
+
+table#tables tr:last-child th {
+    border-bottom: 2px solid red; /* Establece el último borde inferior de la última fila en rojo */
+}
+table#tables tr:last-child th {
+    border-bottom: 2px solid red; /* Establece el último borde inferior de la última fila en rojo */
+    font-weight: normal; /* Quita la negrita del texto */
+}
