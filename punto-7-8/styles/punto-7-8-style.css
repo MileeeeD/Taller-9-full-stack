@@ -1,18 +1,33 @@
-.header-nav{
-    display: flex;
-    margin: 50px 100px;
-    justify-content: space-between;
-}
-.header-nav{
-    display: flex;
-    align-items: center;
-}
-.header-nav nav ul{
-    display: flex;
-    gap: 50px;
+#header-nav ul{
     list-style-type: none;
-}
-.header-nav nav ul li a{
+    text-align: center;
+ }
+/*Arripa definimos el estilo de la lista
+especificando que no habra ningun marcador
+en los elementos y que estará centrado*/
+#header-nav li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+ }
+ /*Primero se coloca un inline para decir
+ que va un elemento tras otro, luego que
+ iran centrados, y por último se especifica 
+ la margen*/
+ #header-nav{
+    padding: 2px 2px 2px 2px;
+    background-color: plum;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+ }
+ #header-nav li a {
+    padding: 2px 7px 2px 7px;
+    color: white;
     text-decoration: none;
-    color: purple;
-}
+ }
+ #header-nav li a:hover{
+    background-color:blue;
+    color: #ffffff;
+ }
+ /*El cursor cambie cuando pasa justo encima*/
