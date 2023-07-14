@@ -1,17 +1,18 @@
 #general-section-style{
     text-align: center;
-    margin: 50px 100px;
+    margin: 80px 250px;
+    font-size: 40px;
 }
-#section-style-1{
+.section-style-1__Text1{
     text-align: left;
     margin: 50px 100px;
 }
-#section-style-2{
+.section-style-2__Text2{
     text-align: left;
     margin: 50px 100px;
     color: yellow;
 }
-#section-style-3{
+.section-style-3__Text3{
     text-align: left;
     margin: 50px 100px;
     color: purple;
