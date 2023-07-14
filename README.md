@@ -32,3 +32,6 @@ Con base en el wireframe diseñado y los recursos obtenidos, desarrolle una inte
 <h2>Punto No. 9:</h2> 
 <p>Escribir el documento HTML y las reglas CSS necesarias para visualizar el siguiente texto en el navegador.</p>
 <img src="./public/images/table.png" alt="Tables">
+<h2>Punto No. 10:</h2>
+<p>Aplicar los estilos necesarios para que el documento html se visualice correctamente en cualquier dispositivo.</p>
+<img src="./public/images/modify_cats.png"alt="Modify_cats">

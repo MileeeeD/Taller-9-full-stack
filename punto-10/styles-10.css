@@ -1,0 +1,84 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+  /*box-sizing en border-box, todos los elementos 
+  se ajustan al tamaño total, incluyendo el margen 
+  y el relleno. La segunda regla *, *:before, *:after 
+  asegura que todos los elementos hereden esta propiedad.*/
+
+  body {
+    font: 1.2em/1.2 Helvetica, arial, sans-serif;
+    margin: 0 3%;
+  }
+  
+  h1 {
+    font-size: 1.8em;
+    margin: 0.9em 0 0 0;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin: 1.5em 0 0 0;
+  }
+
+  /* Tamaño de fuente y el tipo de fuente, así como los 
+  márgenes superiores para cada elemento*/
+
+  img {
+    max-width: 100%;
+  }
+  /*ancho máximo de las imágenes del 100%, se ajustan 
+  automáticamente al ancho del contenedor, sin perder 
+  su proporción original.*/
+
+  figure {
+    background: black;
+    border-radius: 5px;
+    color: white;
+    margin: 0px 0px 25px 0px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  figcaption {
+    font-size: 0.8em;
+  }
+
+  /*fondo negro, un borde redondeado, color de texto 
+  blanco, un margen inferior y un relleno. figcaption 
+  establece el tamaño de fuente más pequeño para el texto 
+  de la descripción de la figura.*/
+  
+  @media screen and (min-width: 794px) {
+    body {
+      background: rgba(0, 0, 255, 0.2);
+      margin: 25px 6%;
+    }
+  
+    figure {
+      float: left;
+      width: 45%;
+      margin-right: 4.5%;
+    }
+  }
+  
+  @media screen and (min-width: 1020px) {
+    body {
+      background: rgba(0, 255, 0, 0.2);
+      margin: 25px 10%;
+      max-width: 1130px;
+    }
+  
+    figure {
+      width: 30%;
+      margin-right: 2.5%;
+    }
+  }
+  
