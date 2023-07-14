@@ -1,0 +1,21 @@
+.text-1{
+    color: green;
+}
+.text-2{
+    color:red;
+}
+.text-3{
+    text-decoration: overline underline;
+}
+.text-4{
+    font-size: 30px;
+}
+.text-5{
+    color: blue;
+}
+.text-6{
+    color: red;
+}
+#Text{
+    margin: 120px 400px;
+}

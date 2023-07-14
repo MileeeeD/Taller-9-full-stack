@@ -1,0 +1,18 @@
+#general-section-style{
+    text-align: center;
+    margin: 50px 100px;
+}
+#section-style-1{
+    text-align: left;
+    margin: 50px 100px;
+}
+#section-style-2{
+    text-align: left;
+    margin: 50px 100px;
+    color: yellow;
+}
+#section-style-3{
+    text-align: left;
+    margin: 50px 100px;
+    color: purple;
+}

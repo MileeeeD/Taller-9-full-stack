@@ -17,6 +17,9 @@ Organizar los archivos, imágenes, herramientas y carpetas utilizando buenas pr�
 Con base en el wireframe diseñado y los recursos obtenidos, desarrolle una interfaz web que contenga principios de diseño, utilice las etiquetas HTML necesarias y en el orden correcto, así mismo, utilice el CSS que requiera adecuado para la página web.
 </p>
 <img src ="./public/images/css.png" alt="css">
-<h2>Punto 4: Visualizaciónd e Títulos</h2>
+<h2>Punto 4: Visualización de Títulos</h2>
 <p>Escribir el documento HTML y las reglas CSS necesarias para visualizar el siguiente texto en el navegador.</p>
 <img src="./public/images/titulos.png"alt="Títulos">
+<h2>Punto 5:</h2> 
+<p>Escribir el documento HTML y las reglas CSS necesarias para visualizar el siguiente texto en el navegador.</p>
+<img src="./public/images/Text-5.png"alt="Estilos de Texto">
