@@ -2,6 +2,9 @@
 
 <h2> Información </h2>
 <p> Curso: Full Stack Básico - Grupo No. 1</p>
+<p>Profesor: Cristian Patiño</p>
+<h3>Link Página Web</h3>
+<a href=" https://mileeeed.github.io/Taller-9-full-stack/" target="_blank">Link Página Web</a>
 <h2> Punto No. 1: Link figma </h2>
 <a href ="https://www.figma.com/file/CUJ2XTQoyq8VbWwX5i1AV8/Mileidy-Diaz---Figma-Exercise?type=design&node-id=0%3A1&mode=design&t=CkJnb53DZFWtJdIh-1" target ="_blank"> Link de Figma </a>
 <p>
